@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQFM2qAAWB6Xgw/profile-displaybackgroundimage-shrink_350_1400/0/1710139317299?e=1715817600&v=beta&t=fSN-TpwFFjW3QOuSpDYQjXO4_zwI2VMd-IbeEmFuVaE)
+![logo](https://pbs.twimg.com/profile_banners/1770111134508756992/1710864016/1080x360)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MONERUZZAMAN+ASIF!;" />
 </h1>
